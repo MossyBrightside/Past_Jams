@@ -1,0 +1,11 @@
+Dungeon 1.5 is a massively updated version of my "Dungeon" game jam. 
+I am currently working to overhaul the game completely, as this version of the game was still entirely based on years old code from the first Dungeon game. 
+I am not releasing the source code for this, but may in the future.  
+ 
+The file here consists of the demo for my test level for some of the games mechanics.  
+ 
+WASD to move
+Space to rotate current occupied tile (Only for Blue and Green Tilegroups)  
+Click + Drag to move Tilegroups (Only for green Tilegroups and only while unoccupied)  
+
+Collect keys to unlock doors.
